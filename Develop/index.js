@@ -103,7 +103,10 @@ function init() {
                 }
             }
         }
-    ]);
+    ])
+    .then(projectInfo => {
+        console.log(projectInfo)
+    })
 };
 
 // Function call to initialize app
