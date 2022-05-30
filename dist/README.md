@@ -5,7 +5,7 @@
   
 
   ## Description
-  This was an assignment through the Columbia Coding Bootcamp where I had to create a weather dashboard that provides information on a city basis.
+  This was an assignment through the Columbia Coding Bootcamp where I had to create a weather dashboard that provides information on a country basis.
 
   ## Table of Contents
   - [Installation](#installation)
