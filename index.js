@@ -83,7 +83,7 @@ function init() {
             type: 'list',
             name: 'license',
             message: 'What is the license of this project? (Check one)',
-            choices: ['MIT', 'Apache 2.0', 'ISC', 'GNU GPLv3', 'N/A']
+            choices: ['MIT', 'Apache-2.0', 'ISC', 'GNU-GPLv3', 'N/A']
         },
         {
             type: 'input',

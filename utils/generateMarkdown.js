@@ -38,12 +38,12 @@ function generateMarkdown(projectInfo) {
   ${projectInfo.description}
 
   ## Table of Contents
-  ** [Installation](#installation)
-  ** [Usage](#usage)
-  ** [License](#license)
-  ** [Contributing](#contributing)
-  ** [Tests](#tests)
-  ** [Questions](#questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation
   ${projectInfo.installation}
@@ -61,7 +61,7 @@ function generateMarkdown(projectInfo) {
   ${projectInfo.test}
 
   ## Questions
-  You can find me on GitHub at [${projectInfo.username}](https://github.com/${projectInfo.username})
+  You can find me on GitHub at [${projectInfo.username}](https://github.com/${projectInfo.username}) <br />
   If any have any questions, reach me at:${projectInfo.email}
   `;
 }
