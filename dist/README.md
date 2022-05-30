@@ -1,11 +1,11 @@
 
-  # Covid Tracker
+  # Weather Dashboard
   
-  ![badge](https://img.shields.io/badge/license-GNUGPLv3-blue)
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
   
 
   ## Description
-  First group project
+  This was an assignment through the Columbia Coding Bootcamp where I had to create a weather dashboard that provides information on a city basis.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,23 +16,23 @@
   - [Questions](#questions)
 
   ## Installation
-  I just wanna test badge
+  You simply need to open up a web browser and go to the link https://randiferous.github.io/weather-dashboard-challenge/
 
   ## Usage
-  I just wanna test badge
+  When you open the link, type in a city name in the form input on the left side of the screen.
 
   ## License
   
-  This application is covered under GNUGPLv3
+  This application is covered under MIT
   
 
   ## Contributing
-  testing badge
+  Contributions are not necessary for this project.
 
   ## Tests
-  
+  You can test the functionality of this project by making sure city names persist on the left side after refreshing the webpage.
 
   ## Questions
   You can find me on GitHub at [randiferous](https://github.com/randiferous) <br />
-  If any have any questions, reach me at:fake
+  If any have any questions, reach me at:daniel.younghwan.lee@gmail.com
   
