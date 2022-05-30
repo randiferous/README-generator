@@ -8,7 +8,21 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+const writeFile = fileContent => { 
+    return new Promise((resolve, reject) => {
+        fs.writeFile('./dist/README.me', fileContent, err => {
+            if (err) {
+                reject(err);
+                return;
+            }
+
+            resolve({
+                ok: true,
+                message: 'File created!'
+            });
+        });
+    });
+};
 
 // TODO: Create a function to initialize app
 function init() {
@@ -117,5 +131,12 @@ init()
 .then(projectInfo => {
     return generateMarkdown(projectInfo);
 })
-.then(response =>
-    console.log(response))
+.then(fileContent => {
+    return writeFile(fileContent);
+})
+.then(writeFileResponse => {
+    console.log(writeFileResponse)
+})
+.catch(err => {
+    console.log(err);
+});
