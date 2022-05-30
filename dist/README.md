@@ -27,7 +27,7 @@
   
 
   ## Contributing
-  Contributions are not necessary for this project.
+  Contributions are not necessary for this project at this time.
 
   ## Tests
   You can test the functionality of this project by making sure city names persist on the left side after refreshing the webpage.
