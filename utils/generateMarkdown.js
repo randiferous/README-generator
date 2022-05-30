@@ -56,7 +56,7 @@ function generateMarkdown(projectInfo) {
 
   ## Questions
   You can find me on GitHub at [${projectInfo.username}](https://github.com/${projectInfo.username}) <br />
-  If any have any questions, reach me at:${projectInfo.email}
+  If any have any questions, reach me at: ${projectInfo.email}
   `;
 }
 
