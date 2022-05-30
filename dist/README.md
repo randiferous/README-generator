@@ -1,11 +1,11 @@
 
   # Covid Tracker
   
-  ![badge](https://img.shields.io/badge/license-GNU-GPLv3-blue)
+  ![badge](https://img.shields.io/badge/license-GNUGPLv3-blue)
   
 
   ## Description
-  First group project on front end development.
+  First group project
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,23 +16,23 @@
   - [Questions](#questions)
 
   ## Installation
-  Open browser and go to link.
+  I just wanna test badge
 
   ## Usage
-  Enter country name in form.
+  I just wanna test badge
 
   ## License
   
-  This application is covered under GNU-GPLv3
+  This application is covered under GNUGPLv3
   
 
   ## Contributing
-  Not yet
+  testing badge
 
   ## Tests
-  test
+  
 
   ## Questions
   You can find me on GitHub at [randiferous](https://github.com/randiferous) <br />
-  If any have any questions, reach me at:fake@gmail.com
+  If any have any questions, reach me at:fake
   
