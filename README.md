@@ -18,7 +18,7 @@ Here are a couple of snapshots showing the application on the command line and t
 ![alt text](./img/command%20line.PNG)
 
 
-![alt text](./img/readme%20part%201.PNG)
+![alt text](./img/readme%20top%20half.PNG)
 
 
 ![alt text](./img/readme%20part%202.PNG)
