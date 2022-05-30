@@ -1,7 +1,7 @@
 
   # Covid Tracker
   
-  ![badge](https://img.shields.io/badge/license-ISC-blue)
+  ![badge](https://img.shields.io/badge/license-GNU GPLv3-blue)
   
 
   ## Description
@@ -19,20 +19,20 @@
   Open browser and go to link
 
   ## Usage
-  Provide country name in form
+  Enter country name in form
 
   ## License
   
-  This application is covered under ISC
+  This application is covered under GNU GPLv3
   
 
   ## Contributing
-  Create an issue in GitHub
+  None required
 
   ## Tests
-  Refresh browser after country input
+  
 
   ## Questions
   You can find me on GitHub at [randiferous](https://github.com/randiferous)
-  If any have any questions, reach me at:daniel.younghwan.lee@gmail.com
+  If any have any questions, reach me at:daniel.younghwan@gmail.com
   

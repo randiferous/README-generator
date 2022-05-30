@@ -10,7 +10,7 @@ const questions = [];
 // TODO: Create a function to write README file
 const writeFile = fileContent => { 
     return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/README.me', fileContent, err => {
+        fs.writeFile('./dist/README.md', fileContent, err => {
             if (err) {
                 reject(err);
                 return;
